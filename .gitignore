@@ -167,3 +167,7 @@ pyvenv.cfg
 
 # Mac
 .DS_Store
+
+# Jupyter Notebook
+etc/
+share/
